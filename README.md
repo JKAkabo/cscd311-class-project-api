@@ -29,7 +29,7 @@ This project is an API server for a Residential Application Portal.
    - Volta Hall
    - Commonwealth Hall
 
-3. 10 Rooms in each hall are created.
+3. 12 Rooms in each hall are created.
    - Two female rooms are created in Legon Hall
    - Two male rooms are created in Legon Hall
    - Two female rooms are created in Akuaffo Hall
