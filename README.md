@@ -18,11 +18,11 @@ This project is an API server for a Residential Application Portal.
 
 ## Actions Performed During Setup
 1. Five Students are created.
-   - Jimmy Neutron (Male)
-   - Tony Stark (Male)
-   - Natasha Romanoff (Female)
-   - Scarlett Witch (Female)
-   - Nick Fury (Male)
+   - Jimmy Neutron (Male) ID = 10664053 && PIN = 12345
+   - Tony Stark (Male) ID = 10664055 && PIN = 12345
+   - Natasha Romanoff (Female) ID = 10664058 && PIN = 12345
+   - Scarlett Witch (Female) ID = 10664056 && PIN = 12345
+   - Nick Fury (Male) ID = 10664057 && PIN = 12345
 2. Four Halls are created.
    - Legon Hall
    - Akuaffo Hall
@@ -36,6 +36,7 @@ This project is an API server for a Residential Application Portal.
    - Two male rooms are created in Akuaffo Hall
    - Two female rooms are created in Volta Hall
    - Two male rooms are created in Commonwealth Hall
+
 
 
 ## Author
