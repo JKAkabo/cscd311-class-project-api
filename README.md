@@ -24,10 +24,10 @@ This project is an API server for a Residential Application Portal.
    - Scarlett Witch
    - Nick Fury
 2. Four Halls are created.
-  - Legon Hall
-  - Akuaffo Hall
-  - Volta Hall
-  - Commonwealth Hall
+   - Legon Hall
+   - Akuaffo Hall
+   - Volta Hall
+   - Commonwealth Hall
 
 3. 10 Rooms in each hall are created.
    - Two female rooms are created in Legon Hall
