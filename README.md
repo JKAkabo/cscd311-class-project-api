@@ -18,11 +18,11 @@ This project is an API server for a Residential Application Portal.
 
 ## Actions Performed During Setup
 1. Five Students are created.
-   - Jimmy Neutron
-   - Tony Stark
-   - Natasha Romanoff
-   - Scarlett Witch
-   - Nick Fury
+   - Jimmy Neutron (Male)
+   - Tony Stark (Male)
+   - Natasha Romanoff (Female)
+   - Scarlett Witch (Female)
+   - Nick Fury (Male)
 2. Four Halls are created.
    - Legon Hall
    - Akuaffo Hall
